@@ -8,12 +8,14 @@ This analysis determines the number of retiring employees per title and identifi
 ### Results of Analysis
 
 This analysis will help management forsee the number of employees at Pewlett-Hackard who are eligible for retirement. 
- 1. As seen in the table below approximately 72K employees are retirement eligible.
+ 1. As seen in the retiring_titles table, approximately 72K employees are retirement eligible.
 [retiring_titles.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/retiring_titles.csv)
- 2. As seen in the table below there are approximately 240K current employees at Pewlett-Hackard.
+ 2. As seen in the current_titles table there are approximately 240K current employees at Pewlett-Hackard.
 [all_current_titles_table](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/all_current_titles_table.csv)
- * Comparing the two tables, you can see that approximately 30K employees are eligible for retirement, which is a significant amount.
-
+ * When comparing these two tables, you can see that approximately 30K employees are eligible for retirement, which is a significant amount.
+ 3. As seen in the eligible mentors table, only 1549 employees are eligible to fulfill mentorship roles.
+[eligible_mentors_table.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/eligible_mentors_table.csv)
+ * When comparing this table to the 1st table showing ~72K employees are eligible for retirement, there will be a need for mentors as new employees are onboarded to backfill the positions of those who retire.
 
 
 ## Summary
