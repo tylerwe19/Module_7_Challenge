@@ -20,7 +20,7 @@ This analysis will help management forsee the number of employees at Pewlett-Hac
 
 ## Summary
 In conclusion, though not all retirement-eligible employees will retire all at once, 30% of all Pewlett-Hackard employees are eligible for retirement leaving the company vulnerable. Senior Engineers make up the most retirement eligible employees, but only have the 3rd most employees who are eligible to become mentors. As a result, in addition to promoting engineers into the senior engineer role, hiring senior engineers from the job market may be necessary to mitigate the high turnover. To further prepare for the Silver Tsunami:
- * A staffing analysis may be needed to assess if backfills are needed for every position is vacated from employees retiring. 
+ * A staffing analysis may be needed to assess if backfills are needed for every position that is vacated from employees retiring. 
  * Connected to the above staffing analysis, it would be interesting to gain data that forecasts demand/workload for the next couple years to be intentional in backfilling positions.
  * Lastly, I created the [all_current_titles_table](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/all_current_titles_table.csv) and [eligible_mentors_table.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/eligible_mentors_table.csv) to compare retirement eligible employees to the total employee population to determine the % retirement eligible employees make of the employee population. The eligible mentors table was used to see if the number of eligible mentors by title aligned with number of retirement-eligible employees by title.
  --- 
