@@ -7,6 +7,7 @@ This analysis determines the number of retiring employees per title and identifi
 
 ### Results of Analysis
 
-This analysis will help Louise compare the performance of her play, Fever, to the performance of other plays and theater productions. This analysis will provide insight into her interest of how success and fail rates change over time and goal range. 
+This analysis will help management forsee the number of employees at Pewlett-Hackard who are eligible for retirement. 
+ 1. As 
 
 ## Summary
