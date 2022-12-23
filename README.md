@@ -16,6 +16,6 @@ This analysis will help management forsee the number of employees at Pewlett-Hac
  3. As seen in the eligible mentors table, only 1549 employees are eligible to fulfill mentorship roles.
 [eligible_mentors_table.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/eligible_mentors_table.csv)
  * When comparing this table to the 1st table showing ~72K employees are eligible for retirement, there will be a need for mentors as new employees are onboarded to backfill the positions of those who retire.
-
+ 4. When you compare the [eligible_mentors_table.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/eligible_mentors_table.csv) and the [retiring_titles.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/retiring_titles.csv), you can see that there could be the most turnover among senior engineers, but the senior engineer role only has the 3rd most employees who are eligible to become mentors. 
 
 ## Summary
