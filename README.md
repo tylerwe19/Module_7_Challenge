@@ -12,7 +12,7 @@ This analysis will help management forsee the number of employees at Pewlett-Hac
 [retiring_titles.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/retiring_titles.csv)
  2. As seen in the current_titles table there are approximately 240K current employees at Pewlett-Hackard.
 [all_current_titles_table](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/all_current_titles_table.csv)
- * When comparing these two tables, you can see that approximately 30% employees are eligible for retirement, which is a significant amount.
+ * When comparing these two tables, you can see that approximately 30% of employees are eligible for retirement, which is a significant amount.
  3. As seen in the eligible mentors table, only 1549 employees are eligible to fulfill mentorship roles.
 [eligible_mentors_table.csv](https://github.com/tylerwe19/Module_7_Challenge/blob/main/Resources/Data/eligible_mentors_table.csv)
  * When comparing this table to the 1st table showing ~72K employees are eligible for retirement, there will be a need for mentors as new employees are onboarded to backfill the positions of those who retire.
